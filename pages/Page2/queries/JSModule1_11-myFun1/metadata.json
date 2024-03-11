@@ -19,7 +19,7 @@
     "pageId": "Page2",
     "contextType": "PAGE",
     "collectionId": "Page2__$JSModule1_11$_JSModule1",
-    "executeOnLoad": false,
+    "executeOnLoad": true,
     "clientSideExecution": true,
     "isValid": true,
     "invalids": [],
